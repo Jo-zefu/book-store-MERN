@@ -1,7 +1,5 @@
 # Book Store MERN
 
-![img.png](img.png)
-
 ### Backend
 
 BackEnd CRUD and API testing with Postman
