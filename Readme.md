@@ -22,7 +22,7 @@ FrontEnd CRUD
 |          5 | tailwindCSS      |
 |          6 | axios            |
 
-### How to get the code and execute the code
+### How to get and execute the code
 
 Some basic commands are:
 ```
